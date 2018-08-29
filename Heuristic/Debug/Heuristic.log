@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\documents\visual studio 2015\projects\heuristic\heuristic\源.cpp(73): warning C4244: “初始化”: 从“std::chrono::system_clock::rep”转换到“unsigned int”，可能丢失数据
+d:\documents\visual studio 2015\projects\heuristic\heuristic\源.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+  Heuristic.vcxproj -> D:\Documents\Visual Studio 2015\Projects\Heuristic\Debug\Heuristic.exe
